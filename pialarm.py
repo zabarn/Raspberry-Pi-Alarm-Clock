@@ -189,9 +189,6 @@ class Ui_MainWindow(object):
         alarm_time = now.strftime('%-I:%M:%S %p')
         #print(alarm_time)
 
-        #print(selecttime.alarmtime1)
-        #print(time1)
-
         self.setReason()
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
