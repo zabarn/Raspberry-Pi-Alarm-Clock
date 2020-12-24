@@ -1,7 +1,7 @@
 # Raspberry-Pi-Alarm-Clock
 This is a custom built Raspberry Pi 4 Alarm Clock. It is programmed specifically to be used with the Eviciv 7" 1024x600 IPS display. If you are using a different display you will need to change window, font, and button sizes to work with your display.
 
-MAKE SURE YOU DOWNLOAD THIS FOLDER TO THE DESKTOP IF YOU WANT YOUR PI TO RUN IT ON DOWNLOAD. OTHERWISE YOU WILL HAVE TO GO IN TO THE CODE AND CHANGE THE FILE PATHS FOR THE ALARM SOUND AND THE BACKGROUND PICTURES.
+MAKE SURE YOU DOWNLOAD THIS FOLDER TO THE DESKTOP IF YOU WANT YOUR PI TO RUN IT ON DOWNLOAD. OTHERWISE YOU WILL HAVE TO GO INTO THE CODE AND CHANGE THE FILE PATHS FOR THE ALARM SOUND AND THE BACKGROUND PICTURES.
 
 Here are some helpful tips when setting up your program to work best as an Alarm Clock:
 
