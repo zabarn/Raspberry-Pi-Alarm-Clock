@@ -11,7 +11,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMainWindow, QLabel
 from PyQt5.QtWidgets import QGridLayout, QWidget, QDesktopWidget, QGraphicsView
-import program
+import pialarm
 
 global hour, minute, ampm
 hour = ''
