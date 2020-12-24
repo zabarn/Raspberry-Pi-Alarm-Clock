@@ -7,7 +7,7 @@ Here are some helpful tips when setting up your program to work best as an Alarm
 
 Change your machine's settings so that the screen does not turn off and no screensaver is displayed. You may want to dim the screen when not in use if that is an option.
 
-Set up your Alarm Clock to run as soon as your Raspberry Pi boots to the Desktop. Here is a video on how to do that: https://www.youtube.com/watch?v=cZa1oCSdbUk
+Set up your Alarm Clock to run as soon as your Raspberry Pi boots to the Desktop. Here is a video on how to do that: https://www.youtube.com/watch?v=cZa1oCSdbUk The python file you will want to run is pialarm.py.
 
 Make sure you have the WiFi networks you will use this on set up. Your Raspberry Pi needs the internet to get the correct time. If you plan on taking the device with you when you travel, you will have to bring a keyboard with you to kill the program and access the WiFi settings. Here is how to preset WiFi connections with the Terminal: https://www.youtube.com/watch?v=sgjwVFTsxZM
 
